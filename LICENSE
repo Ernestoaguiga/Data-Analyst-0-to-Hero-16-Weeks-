@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Ernesto Aguilar G - Data Analyst
+Copyright (c) 2026 Hugo Ernesto Aguilar Gallardo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,27 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+This repository — "Data Analyst: 0 to Hero in 16 Weeks" — is an open educational
+resource created and maintained by Hugo Ernesto Aguilar Gallardo.
+
+The educational content (Markdown files, SQL scripts, Python notebooks, exercises,
+and documentation) is shared under the MIT License for learning purposes.
+
+You are free to:
+  ✅ Use this program for your own learning
+  ✅ Fork and adapt the structure for your own bootcamp
+  ✅ Share it with others who want to break into Data Analytics
+  ✅ Reference it in your own educational materials
+
+You may NOT:
+  ❌ Sell this content as a paid course without attribution
+  ❌ Remove the author's copyright notice from derivative works
+  ❌ Represent this work as entirely your own creation
+
+Attribution: If you build on this work, please credit:
+  Hugo Ernesto Aguilar Gallardo
+  https://github.com/Ernestoaguiga
+  https://linkedin.com/in/hugo-ernesto-aguilar-gallardo-2359263a5
